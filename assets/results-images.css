@@ -1,0 +1,11 @@
+.metal-card {
+  background-image: linear-gradient(160deg, rgba(9, 121, 79, .08), rgba(0, 0, 0, .72)), url(usinagem.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.metal-card.second {
+  background-image: linear-gradient(160deg, rgba(9, 121, 79, .06), rgba(0, 0, 0, .7)), url(reformas.png);
+  background-position: center;
+  filter: none;
+}
