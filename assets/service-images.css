@@ -9,6 +9,10 @@
   justify-content: flex-start;
 }
 
+.service-grid article.priority {
+  background: #204b3a;
+}
+
 .service-head {
   position: absolute;
   inset: 0 0 auto;

@@ -1,0 +1,6 @@
+.hero-slides{position:absolute;inset:0}
+.hero-slide{opacity:0;animation:heroSlide 15s infinite}
+.slide-one{animation-delay:0s}
+.slide-two{animation-delay:5s}
+.slide-three{animation-delay:10s}
+@keyframes heroSlide{0%,30%{opacity:1}33.34%,100%{opacity:0}}
